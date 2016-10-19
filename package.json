@@ -1,0 +1,16 @@
+{
+  "name"         : "webscraper-test",
+  "version"      : "0.0.1",
+  "description"  : "Test bot for using webscraping with node",
+  "main"         : "server.js",
+  "author"       : "Doktor",
+  "repository"   : {
+    "type" : "git",
+    "url"  : "https://github.com/doktor/webscraper-test"
+  },
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
